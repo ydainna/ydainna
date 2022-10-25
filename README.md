@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/ydainna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ydainna" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ydainna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ydainna" height="30" width="40" /></a>
-<a href="https://discord.gg/ydainna#6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ydainna#6666" height="30" width="40" /></a>
+<a href="https://discord.com/users/168429544305459200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ydainna#6666" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
